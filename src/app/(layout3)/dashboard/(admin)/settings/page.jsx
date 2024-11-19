@@ -1,6 +1,6 @@
-import React from "react";
+"use client";
 
-const page = () => {
+const Settings = () => {
   return (
     <div>
       <h1>Settings page</h1>
@@ -8,4 +8,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Settings;

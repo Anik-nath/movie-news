@@ -1,5 +1,5 @@
+"use client";
 import Sidebar from "@/components/shared/Sidebar";
-import Link from "next/link";
 import React from "react";
 
 const layout = ({ children }) => {
